@@ -12,7 +12,7 @@ A sample class project for practise
 
 - Open Terminal {Ctrl+Alt+T}
 
-- git clone https://github.com/Swakaa/Delani-Studio.git
+- git clone https://swakaa.github.io/Independent-Project-3/
 
 - cd Delani-Studio
 
